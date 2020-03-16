@@ -1,4 +1,5 @@
-# Deep-Learning-with-PyTorch
+# Deep Learning with PyTorch
+
 This repository contains Deep Learning projects in PyTorch.
 
 
