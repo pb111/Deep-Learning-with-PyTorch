@@ -1,4 +1,5 @@
-![PyTorch](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkswBkZoOwX8p47PPFBr8VFJI1hyRpsHxRgh0AqHOZYrL8inr&s)
+<p align="center"><img width="40%" src="PyTorch logo.png" /></p>
+
 
 --------------------------------------------------------------------------------             
 
