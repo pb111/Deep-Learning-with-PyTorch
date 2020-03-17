@@ -20,7 +20,7 @@ PyTorch provides two high-level features:[13]
 
 ## **License**
 
-All code and material is licensed under [Creative Commons Attribution-ShareAlike 4.0.]( https://creativecommons.org/licenses/by-sa/4.0/ license.
+All code and material is licensed under [Creative Commons Attribution-ShareAlike 4.0.]( https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 
 --------------------------------------------------------------------------------             
@@ -34,7 +34,7 @@ This repository contains Deep Learning projects in PyTorch.
 ## **Table of Contents**
 
 
-#### **Basic**
+#### **Basics**
 
 1. [Tensor Operations in PyTorch](https://github.com/pb111/Deep-Learning-with-PyTorch/blob/master/Tensor_operations_in_pytorch.ipynb)
 
